@@ -1,4 +1,4 @@
-# Hi there, I'm Suneater! 👋
+# Hi there, I'm Aditya! 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/lNEm6IEnVqGnYLXJMt/giphy.gif" width="200" />
