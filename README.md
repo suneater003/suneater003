@@ -1,7 +1,7 @@
 # Hi there, I'm Suneater! 👋
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9hDx80E/giphy.gif](https://media.giphy.com/media/lNEm6IEnVqGnYLXJMt/giphy.gif)" width="200" />
+  <img src="https://media.giphy.com/media/lNEm6IEnVqGnYLXJMt/giphy.gif" width="200" />
 </p>
 
 I'm a passionate full-stack developer with a knack for transforming complex problems into elegant, human-centered solutions. My journey began with a simple `Hello, World!` — and today, I’m building robust, scalable web applications with a strong emphasis on clean UI/UX and real-world impact. I'm currently working on a project that explores how technology can support **mental health and well-being**.
