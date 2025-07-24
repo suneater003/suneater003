@@ -1,10 +1,10 @@
 # Hi there, I'm Suneater! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hDx80E/giphy.gif" width="200" />
+  <img src="[https://media.giphy.com/media/M9gbBd9hDx80E/giphy.gif](https://media.giphy.com/media/lNEm6IEnVqGnYLXJMt/giphy.gif)" width="200" />
 </p>
 
-I'm a passionate full-stack developer with a knack for transforming complex problems into elegant, human-centered solutions. My journey began with a simple `Hello, World!` — and today, I’m building powerful web apps and diving deep into AI with a focus on **mental health** and **machine learning**.
+I'm a passionate full-stack developer with a knack for transforming complex problems into elegant, human-centered solutions. My journey began with a simple `Hello, World!` — and today, I’m building robust, scalable web applications with a strong emphasis on clean UI/UX and real-world impact. I'm currently working on a project that explores how technology can support **mental health and well-being**.
 
 I believe in the power of open-source, community collaboration, and using tech to make meaningful impact.
 
@@ -22,7 +22,7 @@ I believe in the power of open-source, community collaboration, and using tech t
 ## 💻 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,python,flask,fastapi,nodejs,express,mongodb,postgres,docker,git,linux,vite" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,python,flask,fastapi,nodejs,express,mongodb,html,css,docker,git,linux,vite" />
 </p>
 
 ---
@@ -39,12 +39,10 @@ I believe in the power of open-source, community collaboration, and using tech t
 ## 💬 Let's Connect!
 
 - 🌐 **Portfolio:** [www.adityas.dev](https://www.adityas.dev)  
-- 📫 **Email:** aditya1raj003@gmail.com  
-- 🐦 **Twitter:** [@suneater003](https://twitter.com/suneater003)  
+- 📫 **Email:** aditya1raj003@gmail.com   
 - 💼 **Portfolio Projects:**  
   - [Fantasy World](https://fantasy-world-phi.vercel.app)  
-  - [Artisti Club](https://artisti-new.vercel.app)  
-  - [SMIT Travel Form (PHP)](https://dbms-phi-blond.vercel.app/)  
+  - [Artisti Club](https://artisti-new.vercel.app)   
   - [Flash Card Game](https://flash-card-game-lime.vercel.app/)
 
 ---
@@ -55,7 +53,7 @@ When I'm not coding, you’ll likely find me:
 - Hiking or exploring the outdoors 🌿  
 - Perfecting my latte art ☕  
 - Lost in sci-fi universes or beating high scores in retro games 👾  
-(Pro tip: I rarely lose at Pac-Man 😎)
+(Pro tip: I love manhuas and manga 😎)
 
 ---
 
